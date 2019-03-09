@@ -1,0 +1,5 @@
+user:
+  datasource:
+    url: 我是生产环境的url
+    username: prod
+    password: prod_password

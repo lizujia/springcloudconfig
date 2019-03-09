@@ -1,0 +1,5 @@
+user:
+  datasource:
+    url: 我是测试环境的url
+    username: test
+    password: test_password
